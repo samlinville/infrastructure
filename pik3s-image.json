@@ -3,8 +3,8 @@
         "ssh_key_src": "https://github.com/samlinville.keys",
         "image_home_dir": "/home/sam",
         "system_user": "sam",
-        "system_password": "rDd_EYUnMQQuinFxyyyEnzm2r4Kso39W",
-        "tailscale_key": "tskey-b332310edeb66ae118598fb2"
+        "system_password": "",
+        "tailscale_key": ""
     },
     "builders": [{
       "type": "arm-image",
