@@ -60,8 +60,8 @@
       "type": "shell",
       "inline": [
         "sudo apt-get update",
-        "sleep 1m"
-        "sudo apt-get install tailscale"
+        "sleep 1m",
+        "sudo apt-get install tailscale",
         "sleep 1m"
       ]
     },
